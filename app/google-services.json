@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966632729092",
+    "project_id": "videocall-d561e",
+    "storage_bucket": "videocall-d561e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966632729092:android:a3680304575abbecd8a351",
+        "android_client_info": {
+          "package_name": "com.jpr.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966632729092-pg7nn9uk45r8pu9o6onf7if2qoiq4758.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7kcwunkrKNKFgdcxpQaQenhhXIAVf6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966632729092-pg7nn9uk45r8pu9o6onf7if2qoiq4758.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
